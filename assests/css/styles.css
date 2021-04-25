@@ -74,7 +74,7 @@ header .line{
 .header--search button{
   border: 0;
   background: transparent;
-  margin-left: -30px;
+  margin-left: -35px;
   cursor: pointer;
 }
 .header--search img {
